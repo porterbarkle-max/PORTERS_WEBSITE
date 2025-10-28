@@ -1,0 +1,45 @@
+*{
+    text-align: center;
+    font-size: 30px;
+}
+body{
+    color: peachpuff;
+    margin: 1;
+}
+img{
+    width: 80%;
+    padding-top: 4%    
+}
+.out{
+    border-style: solid;
+    border-width: 90px;
+    border-left-width: 100px;
+    border-right-width: 100px;
+    border-color: peachpuff;
+}
+p{
+    text-align: left;
+    color: darkslategrey;
+    margin: 5%;
+}
+
+li{
+    text-align: left;
+    color: darkslategrey;
+    margin: 5%;
+}
+h1{
+    text-align: left;
+    color: #534333;
+    margin: 5%;
+}
+h3{
+    text-align: left;
+    color: #534333;
+    margin: 5%;
+}
+.special{
+    text-align: left;
+    color: darkslategrey;
+    margin: 5%;
+}
